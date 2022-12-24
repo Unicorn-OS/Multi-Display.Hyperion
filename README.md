@@ -1,4 +1,6 @@
-# virt-manager-Mulitple-Display
+# Multi-Display.Hyperion virtual machine
+
+## KVM & Virtio GPU
 code: `virt-viewer -a` , Guide: https://www.modio.se/accelerated-dual-screen-vm-on-linux.html , sch: https://www.google.com/search?q=virt-manager+multiple+displays
 
 
