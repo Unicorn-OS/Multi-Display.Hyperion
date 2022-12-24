@@ -15,3 +15,13 @@ void linkFedora()
 
     createLink(from, to);
 }
+
+void linkUbuntu(){
+    string image, from, to;
+
+    image = "ubuntu-22.10-desktop-amd64.iso";
+    from = getUni() + "/os/dl/" + image;
+    to = getUni() + "/os/iso/" + image;
+
+    createLink(from, to);
+}

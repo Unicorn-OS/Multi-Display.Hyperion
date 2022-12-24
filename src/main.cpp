@@ -8,6 +8,7 @@ int main()
 {
     makeUni();
     linkFedora();
+    linkUbuntu();
 
     cout << "Hello world!" << endl;
     return 0;

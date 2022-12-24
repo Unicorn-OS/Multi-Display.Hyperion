@@ -39,3 +39,33 @@
 	<filesystem>
 	"iso.h"
 
+1671835371 source:/home/me/Documents/Multi-Display.Hyperion/src/lib/mkpath/mkpath.cpp
+	<iostream>
+	<string>
+	<sys/stat.h>
+	<direct.h>
+
+1671839924 source:/home/me/Documents/Multi-Display.Hyperion/src/main.cpp
+	<iostream>
+	"uni/mkdirs.h"
+	"os/iso.h"
+
+1671839099 /home/me/Documents/Multi-Display.Hyperion/src/uni/mkdirs.h
+	<string>
+
+1671844431 /home/me/Documents/Multi-Display.Hyperion/src/os/iso.h
+	<string>
+
+1671841275 source:/home/me/Documents/Multi-Display.Hyperion/src/os/create.cpp
+	<iostream>
+	<fstream>
+	<filesystem>
+	"iso.h"
+
+1671839148 source:/home/me/Documents/Multi-Display.Hyperion/src/uni/mkdirs.cpp
+	"mkdirs.h"
+	"../lib/mkpath/mkpath.h"
+	<iostream>
+
+1671836113 /home/me/Documents/Multi-Display.Hyperion/src/lib/mkpath/mkpath.h
+
