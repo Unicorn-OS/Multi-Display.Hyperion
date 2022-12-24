@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1671839924 source:/home/me/Documents/Multi-Display/main.cpp
+	<iostream>
+	"uni/mkdirs.h"
+	"os/iso.h"
+
+1671839148 source:/home/me/Documents/Multi-Display/uni/mkdirs.cpp
+	"mkdirs.h"
+	"../lib/mkpath/mkpath.h"
+	<iostream>
+
+1671839099 /home/me/Documents/Multi-Display/uni/mkdirs.h
+	<string>
+
+1671835371 source:/home/me/Documents/Multi-Display/uni/lib/mkpath.cpp
+	<iostream>
+	<string>
+	<sys/stat.h>
+	<direct.h>
+
+1671835371 source:/home/me/Documents/Multi-Display/lib/mkpath/mkpath.cpp
+	<iostream>
+	<string>
+	<sys/stat.h>
+	<direct.h>
+
+1671836113 /home/me/Documents/Multi-Display/lib/mkpath/mkpath.h
+
+1671841235 /home/me/Documents/Multi-Display/os/iso.h
+	<string>
+
+1671841285 source:/home/me/Documents/Multi-Display/os/iso.cpp
+	"iso.h"
+	"../uni/mkdirs.h"
+
+1671841275 source:/home/me/Documents/Multi-Display/os/create.cpp
+	<iostream>
+	<fstream>
+	<filesystem>
+	"iso.h"
+
