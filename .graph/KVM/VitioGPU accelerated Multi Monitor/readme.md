@@ -15,6 +15,9 @@ change: `heads="{number}"
 </video>
 ```
 
+## attach:
+`virt-viewer -a`
+
 ## Guide:
 https://www.modio.se/accelerated-dual-screen-vm-on-linux.html
 ark| https://web.archive.org/web/20241012152958/https://www.modio.se/accelerated-dual-screen-vm-on-linux.html
